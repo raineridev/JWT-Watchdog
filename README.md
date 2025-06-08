@@ -1,1 +1,1 @@
-# JWT-Watchdog
+# JWTWatchdog
